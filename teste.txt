@@ -1,1 +1,3 @@
-Versão 1 do arquivo de teste.
+﻿Versão 1 do arquivo de teste.
+
+Vocês estão vendo como o GIT é legal???
